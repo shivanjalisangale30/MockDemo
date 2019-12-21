@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mockito.MockitoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-21T08:43:49" hostname="admin1-desktop" time="0.128">
+  <properties/>
+  <testcase name="customerReaderTest" classname="com.mockito.MockitoTest" time="0.128"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
